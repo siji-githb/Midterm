@@ -1,5 +1,5 @@
 .course {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     text-decoration: none;
     color: black;
     font-weight: 600;
@@ -8,7 +8,7 @@
     font-size: 20px;
 }
 a {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     text-decoration: none;
     color: black;
     font-weight: 600;
@@ -28,7 +28,7 @@ a {
     color: black;
 }
 .container1 > h3:nth-child(2) {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     display: inline-block;
     font-weight: 600;
     position: relative;
@@ -36,7 +36,7 @@ a {
     font-size: 20px;
 }
 .container1 > h3:nth-child(3) {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     display: inline-block;
     position: relative;
     left: 270px;
@@ -44,7 +44,7 @@ a {
     font-size: 20px;
 }
 .container1 > h3:nth-child(4) {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     display: inline-block;
     position: relative;
     left: 1080px;
@@ -52,12 +52,12 @@ a {
     font-size: 20px;
 }
 .container2 {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     line-height: 150%;
     letter-spacing: 3%;
 }
 .container2 > h2:nth-child(1) {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     position: relative;
     left: 165px;
     bottom: 803px;
@@ -65,7 +65,7 @@ a {
     font-size: 21px;
 }
 .container2 > h2:nth-child(2) {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     position: relative;
     left: 165px;
     bottom: 797px;
@@ -73,7 +73,7 @@ a {
     font-size: 21px;
 }
 .container2 > h2:nth-child(3) {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     position: relative;
     left: 165px;
     bottom: 790px;
@@ -92,7 +92,7 @@ a {
     bottom: 440px; 
 }
 .button {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     border-radius: 20px;
     color: white;
     background-color: black;
@@ -116,7 +116,7 @@ a {
     bottom: 120px;
 }
 .first {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     position: relative;
     bottom: 700px;
     font-size: 70px;
@@ -124,7 +124,7 @@ a {
     left: 125px;
 }
 .learn {
-    font-family: "pattaya";
+    font-family: "pattaya", sans-serif;
     text-align: center;
     border: 2px solid black;
     border-radius: 100px;
@@ -138,7 +138,7 @@ a {
     font-size: 70px;
 }
 .second {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     text-align: justify;
     font-size: 21px;
     width: 474px;
@@ -170,7 +170,7 @@ a {
     left: 45px;
     bottom: 655px;
 }
-.wael {
+.wael2 {
     position: relative;
     left: 50px;
     width: 380.68px;
@@ -185,7 +185,7 @@ a {
     bottom: 570px;
 }
 .try {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     position: relative;
     left: 460px;
     bottom: 1600px;
@@ -195,7 +195,7 @@ a {
     text-align: center;
 }
 .on {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     position: relative;
     left: 590px;
     bottom: 1630px;
@@ -205,7 +205,7 @@ a {
 }
 .mobile {
     background-color: #F9C265;
-    font-family: "pattaya";
+    font-family: "pattaya", sans-serif;
     position: relative;
     left: 670px;
     bottom: 1737px;
@@ -242,7 +242,7 @@ a {
     color: black;
 }
 .home > h3:nth-child(1) {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     display: inline-block;
     font-weight: 700;
     position: relative;
@@ -250,7 +250,7 @@ a {
     font-size: 20px;
 }
 .home > h3:nth-child(2) {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     display: inline-block;
     font-weight: 600;
     position: relative;
@@ -258,7 +258,7 @@ a {
     font-size: 20px;
 }
 .home > h3:nth-child(3) {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     display: inline-block;
     position: relative;
     left: 370px;
@@ -266,7 +266,7 @@ a {
     font-size: 20px;
 }
 .home > h3:nth-child(4) {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     display: inline-block;
     position: relative;
     left: 1080px;
@@ -274,7 +274,7 @@ a {
     font-size: 20px;
 }
 .button2 {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     border-radius: 20px;
     color: white;
     background-color: black;
@@ -300,7 +300,7 @@ a {
     right: 8px;
 }
 .improve > h1 {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     position: relative;
     bottom: 100px;
     left: 120px;
@@ -324,14 +324,14 @@ a {
 }
 .skills > h1 {
     color: RGB(249, 194, 101);
-    font-family: "pattaya";
+    font-family: "pattaya", sans-serif;
     font-weight: 400;
     font-size: 81px;
     text-align: center;
 }
 .skills > h1:nth-child(2) {
     color: black;
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     position: relative;
     font-weight: 600;
     font-size: 81px;
@@ -345,7 +345,7 @@ a {
     position: relative;
     left: 970px;
     bottom: 1150px;
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     font-weight: 500;
     font-size: 21px;
 }
@@ -361,7 +361,7 @@ a {
     left: 908px;
     bottom: 1735px;
 }
-.wael {
+.wael{
     width: 861.62px;
     height: 616px;
     position: relative;
@@ -405,7 +405,7 @@ a {
     bottom: 1150px;
 }
 .we > h1 {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     position: relative;
     top: 100px;
     left: 950px;
@@ -430,7 +430,7 @@ a {
     bottom: 2160px;
 }
 .smart > h1:nth-child(1) {
-    font-family: "pattaya";
+    font-family: "pattaya", sans-serif;
     position: relative;
     left: 23px;
     bottom: 48px;
@@ -438,7 +438,7 @@ a {
     font-size: 65px;
 }
 .smart > h1:nth-child(2) {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     position: relative;
     left: 220px;
     bottom: 179px;
@@ -446,7 +446,7 @@ a {
     font-size: 65px;
 }
 .smart > h1:nth-child(3) {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     position: relative;
     left: 20px;
     bottom: 210px;
@@ -456,7 +456,7 @@ a {
 .des {
     width: 467px;
     height: 189px;
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     font-weight: 400;
     font-size: 25px;
     position: relative;
@@ -486,7 +486,7 @@ a {
 }
 .pop > h2:nth-child(1) {
     color: white;
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     font-weight: 600;
     font-size: 50px;
     text-align: center;
@@ -500,7 +500,7 @@ a {
     border: 2px solid RGB(249, 194, 101);
     background-color: black;
     color: RGB(249, 194, 101);
-    font-family: "pattaya";
+    font-family: "pattaya", sans-serif;
     font-weight: 600;
     font-size: 50px;
     position: relative;
@@ -528,7 +528,7 @@ a {
     left: 106px;
 }
 .try2 {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     position: relative;
     left: 460px;
     bottom: 3760px;
@@ -538,7 +538,7 @@ a {
     text-align: center;
 }
 .on2 {
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     position: relative;
     left: 590px;
     bottom: 3790px;
@@ -548,7 +548,7 @@ a {
 }
 .mobile2 {
     background-color: #F9C265;
-    font-family: "pattaya";
+    font-family: "pattaya", sans-serif;
     position: relative;
     left: 670px;
     bottom: 3900px;
@@ -579,3 +579,70 @@ a {
     position: relative;
     bottom: 2530px;
 }
+.footer {
+    background-color: #1D1D1D;
+    position: relative;
+    bottom: 234.2rem;
+    width: 1230px;
+    height: 353px;
+    left: 153px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.footer > img.last {
+    position: relative;
+    top: 30px;
+    left: 30px;
+    width: 181.92px;
+    height: 60px;
+}
+.footer > p.Speed {
+    position: relative;
+    top: 30px;
+    left: 40px;
+    width: 450px;
+    line-height:35px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+.footer > p.all {
+    position: relative;
+    top: 80px;
+    left: 40px;
+    width: 450px;
+    line-height:30px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+.footer > h3.c {
+    position: relative;
+    left: 600px;
+    bottom: 13.2rem;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+.footer > h3.r {
+    position: relative;
+    left: 800px;
+    bottom: 15.8rem;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+.footer > h3.p {
+    position: relative;
+    left: 1000px;
+    bottom: 18.5rem;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+footer > ul.
