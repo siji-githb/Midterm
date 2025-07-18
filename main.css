@@ -1,235 +1,3 @@
-.course {
-    font-family: "Montserrat", sans-serif;
-    text-decoration: none;
-    color: black;
-    font-weight: 600;
-    position: relative;
-    left: 270px;
-    font-size: 20px;
-}
-a {
-    font-family: "Montserrat", sans-serif;
-    text-decoration: none;
-    color: black;
-    font-weight: 600;
-    position: relative;
-    left: 125px;
-    font-size: 20px;
-}
-.container1 {
-    width: 100%;
-    padding: 10px;
-    color: #ffffff;
-    margin-top: 50px;
-    background-color: #F9C265;
-    position: relative;
-    bottom: 50px;
-    right: 10px;
-    color: black;
-}
-.container1 > h3:nth-child(2) {
-    font-family: "Montserrat", sans-serif;
-    display: inline-block;
-    font-weight: 600;
-    position: relative;
-    left: 200px;
-    font-size: 20px;
-}
-.container1 > h3:nth-child(3) {
-    font-family: "Montserrat", sans-serif;
-    display: inline-block;
-    position: relative;
-    left: 270px;
-    font-weight: 700;
-    font-size: 20px;
-}
-.container1 > h3:nth-child(4) {
-    font-family: "Montserrat", sans-serif;
-    display: inline-block;
-    position: relative;
-    left: 1080px;
-    font-weight: 600;
-    font-size: 20px;
-}
-.container2 {
-    font-family: "Montserrat", sans-serif;
-    line-height: 150%;
-    letter-spacing: 3%;
-}
-.container2 > h2:nth-child(1) {
-    font-family: "Montserrat", sans-serif;
-    position: relative;
-    left: 165px;
-    bottom: 803px;
-    font-weight: 700;
-    font-size: 21px;
-}
-.container2 > h2:nth-child(2) {
-    font-family: "Montserrat", sans-serif;
-    position: relative;
-    left: 165px;
-    bottom: 797px;
-    font-weight: 700;
-    font-size: 21px;
-}
-.container2 > h2:nth-child(3) {
-    font-family: "Montserrat", sans-serif;
-    position: relative;
-    left: 165px;
-    bottom: 790px;
-    font-weight: 700;
-    font-size: 21px;
-}
-.okay {
-    position: relative;
-    left: 106px;
-    bottom: 1670px;
-}
-.bg {
-    width: 1550px;
-    height: 962px;
-    position: relative;
-    bottom: 440px; 
-}
-.button {
-    font-family: "Montserrat", sans-serif;
-    border-radius: 20px;
-    color: white;
-    background-color: black;
-    position: relative;
-    left: 1080px;
-    font-weight: 400;
-    font-size: 15px;
-}
-.img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    bottom: 135px;
-}
-.leaf {
-    width: 592.67px;
-    height: 580px;
-    position: relative;
-    left: 754px;
-    bottom: 120px;
-}
-.first {
-    font-family: "Montserrat", sans-serif;
-    position: relative;
-    bottom: 700px;
-    font-size: 70px;
-    font-weight: 600;
-    left: 125px;
-}
-.learn {
-    font-family: "pattaya", sans-serif;
-    text-align: center;
-    border: 2px solid black;
-    border-radius: 100px;
-    background-color: #F9C265;
-    width: 270px;
-    padding: 10px;
-    position: relative;
-    left: 125px;
-    bottom: 730px;
-    font-weight: 400;
-    font-size: 70px;
-}
-.second {
-    font-family: "Montserrat", sans-serif;
-    text-align: justify;
-    font-size: 21px;
-    width: 474px;
-    height: 96px;
-    position: relative;
-    left: 125px;
-    bottom: 750px;
-    font-style: medium;
-    font-weight: 500;
-}
-.check {
-    position: relative;
-    width: 36px;
-    height: 36px;
-    left: 125px;
-    bottom: 750px;
-}
-.check1 {
-    position: relative;
-    width: 36px;
-    height: 36px;
-    left: 85px;
-    bottom: 703px;
-}
-.check2 {
-    position: relative;
-    width: 36px;
-    height: 36px;
-    left: 45px;
-    bottom: 655px;
-}
-.wael2 {
-    position: relative;
-    left: 50px;
-    width: 380.68px;
-    height: 318.29px;
-    bottom: 240px;
-}
-.vec{
-    width: 67.38px;
-    height: 82.66px;
-    position: relative;
-    left: 830px;
-    bottom: 570px;
-}
-.try {
-    font-family: "Montserrat", sans-serif;
-    position: relative;
-    left: 460px;
-    bottom: 1600px;
-    font-weight: 700;
-    font-size: 51px;
-    width: 588px;
-    text-align: center;
-}
-.on {
-    font-family: "Montserrat", sans-serif;
-    position: relative;
-    left: 590px;
-    bottom: 1630px;
-    font-weight: 700;
-    font-size: 51px;
-    width: 588px;
-}
-.mobile {
-    background-color: #F9C265;
-    font-family: "pattaya", sans-serif;
-    position: relative;
-    left: 670px;
-    bottom: 1737px;
-    font-weight: 400;
-    font-size: 51px;
-    width: 240px;
-    border-radius: 100px;
-    text-align: center;
-    border: 2px solid black;
-}
-.play {
-    width: 320.61px;
-    height: 71px;
-    left: 571px;
-    position: relative;
-    bottom: 1750px;
-}
-.namo {
-    width: 1230px;
-    height: 353px;
-    position: relative;
-    left: 153px;
-    bottom: 1657px;
-}
 .home {
     width: 100%;
     padding: 10px;
@@ -271,6 +39,24 @@ a {
     position: relative;
     left: 1080px;
     font-weight: 600;
+    font-size: 20px;
+}
+.course2 {
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    position: relative;
+    left: 270px;
+    font-size: 20px;
+}
+a {
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    position: relative;
+    left: 125px;
     font-size: 20px;
 }
 .button2 {
@@ -348,6 +134,20 @@ a {
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
     font-size: 21px;
+}
+.wael2 {
+    position: relative;
+    left: 50px;
+    width: 380.68px;
+    height: 318.29px;
+    bottom: 240px;
+}
+.vec{
+    width: 67.38px;
+    height: 82.66px;
+    position: relative;
+    left: 830px;
+    bottom: 570px;
 }
 .enroll {
     position: relative;
@@ -559,19 +359,86 @@ a {
     text-align: center;
     border: 2px solid black;
 }
-.play2 {
-    width: 320.61px;
-    height: 71px;
-    left: 571px;
+.container4{
+    background: #F9C265;
     position: relative;
-    bottom: 3910px;
-}
-.namo2 {
+    bottom: 233rem;
     width: 1230px;
     height: 353px;
-    position: relative;
     left: 153px;
-    bottom: 3750px;
+    border-radius: 20px;
+}
+.container4 > p.after2 {
+    font-family: "Montserrat", sans-serif;
+    position: relative;
+    font-size: 21px;
+    bottom: 9rem;
+    left: 605px;
+    width: 450px;
+    line-height: 150%;
+    font-weight: 400;
+}
+.container4 > h4.view2 {
+    font-family: "Montserrat", sans-serif;
+    position: relative;
+    left: 605px;
+    bottom: 8.5rem;
+    font-weight: 700;
+    font-size: 17px;
+    color: #F9C265;
+    background: #000;
+    border-radius: 50px;
+    padding: 10px 20px;
+    width: 120px;
+    text-align: center;
+}
+.container4 > img.aww2 {
+    position: relative;
+    left: 100px;
+    width: 380.68px;
+    height: 318.29px;
+    bottom: 426.9px;
+}
+.container4 > img.toyok2 {
+    position: relative;
+    width: 60.97px;
+    height: 58.74px;
+    bottom: 472px;
+    right: 414.7px;
+}
+.container4 > img.tosok2 {
+    position: relative;
+    width: 67.38px;
+    height: 82.66px;
+    bottom: 735px;
+    left: 750px;
+}
+.container4 > h1.get2:nth-child(1) {
+    position: relative;
+    top: 70px;
+    left: 605px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 150%;
+}
+.container4 > h1.read2:nth-child(2) {
+    position: relative;
+    bottom: 34px;
+    left: 710px;
+    font-family: "Pattaya", sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 150%;
+}
+.container4 > h1.start2:nth-child(3) {
+    position: relative;
+    bottom: 8.6rem;
+    left: 850px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 150%;
 }
 .bg2 {
     width: 1530px;
@@ -620,29 +487,81 @@ a {
 }
 .footer > h3.c {
     position: relative;
-    left: 600px;
+    left: 570px;
     bottom: 13.2rem;
     color: white;
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 21px;
 }
 .footer > h3.r {
     position: relative;
-    left: 800px;
-    bottom: 15.8rem;
+    left: 750px;
+    bottom: 16rem;
     color: white;
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 21px;
 }
 .footer > h3.p {
     position: relative;
     left: 1000px;
-    bottom: 18.5rem;
+    bottom: 18.8rem;
     color: white;
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 21px;
 }
-footer > ul.
+.footer > ul.acp {
+    position: relative;
+    left: 530px;
+    bottom: 22.8rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    list-style-type: none;
+    font-size: 21px;
+    color: white;
+    line-height: 50px;
+} 
+.footer > ul.res {
+    position: relative;
+    left: 710px;
+    bottom: 33.5rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    list-style-type: none;
+    font-size: 21px;
+    color: white;
+    line-height: 50px;
+}  
+.footer > ul.pro {
+    position: relative;
+    left: 960px;
+    bottom: 44.1rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    list-style-type: none;
+    font-size: 21px;
+    color: white;
+    line-height: 50px;
+}
+.footer > p.terms {
+    position: relative;
+    left: 851px;
+    bottom: 44rem;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+}
+.play2 {
+    width: 320.61px;
+    height: 71px;
+    left: 571px;
+    position: relative;
+    bottom: 243rem;
+}
+.latag{
+    position: relative;
+    top: 30px;
+}
