@@ -449,7 +449,7 @@ a {
 .footer {
     background-color: #1D1D1D;
     position: relative;
-    bottom: 234.2rem;
+    bottom: 232.2rem;
     width: 1230px;
     height: 353px;
     left: 153px;
@@ -565,3 +565,254 @@ a {
     position: relative;
     top: 30px;
 }
+
+.third-body-div {
+  position: relative;
+  margin: 0 auto;
+  width: 1512px;
+  height: 1095px;
+  background: radial-gradient(
+    circle,
+    rgba(184, 122, 15, 0.2) 10%,   
+    rgba(255, 255, 255, 1) 60%     
+  );
+  bottom: 2000px;
+}
+
+
+.black-box {
+  position: relative;
+  background-color: #1D1D1D;
+  width: 806px;
+  height: 383px;
+  left: 134px;
+  top: 120px;
+  border-radius: 10px;
+}
+
+.tri-line2-img {
+  position: relative;
+  width: 48px;
+  height: 60px;
+  left: 13.81px;
+  top: 40px;
+}
+
+.special-features-txt {
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 150%;
+  letter-spacing: 3%;
+  color: white;
+  width: 414px;
+  height: 103px;
+  left: 54px;
+  bottom: 10px;
+}
+
+.features-txt {
+position: relative;
+font-family: "Pattaya", sans-serif;
+font-weight: 400;
+color: #F9C265;
+
+}
+
+.see-all-features {
+  position: relative;
+  top: 50px;
+  font-family: "Montserrat", sans-serif;
+  width: 277px;
+  height: 82px;
+  border-radius: 50px;
+  background-color: #F9C265;
+  left: 58px;
+  align-content: center;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 150%;
+
+}
+
+.arrow-up-img2 {
+  position: relative;
+  left: 270px;
+  bottom: 18px;
+  height: 50px;
+}
+
+.get-certificate-div {
+  position: relative;
+  font-family: "Inter", sans-serif;
+  background-color: rgb(255, 255, 255);
+  width: 378px;
+  height: 380px;
+  left: 1000px;
+  bottom: 280px;
+}
+
+.cert-img {
+  position: relative;
+  width: 94.86px;
+  height: 83px;
+  left: 27px;
+  top: 39px;
+}
+
+.get-cert-txt {
+  position: relative;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 150%;
+  letter-spacing: 3%;
+  left: 37px;
+  top: 50px;
+}
+
+.add-value-txt {
+  position: relative;
+  font-weight: 400;
+  color: rgb(85, 85, 85);
+  font-size: 20px;
+  line-height: 171%;
+  letter-spacing: 3%;
+  width: 306px;
+  height: 136px;
+  left: 38px;
+  top: 50px;
+}
+
+.amazing-instructor-div {
+  background-color: rgb(253, 253, 253);
+  font-family: "Inter", sans-serif;
+  position: relative;
+  width: 378px;
+  height: 380px;
+  left: 134px;
+  bottom: 220px;
+}
+
+.instructor-img {
+  position: relative;
+  width: 106.93px;
+  height: 103px;
+  left: 23px;
+  top: 18px;
+}
+
+.instructor-txt {
+  position: relative;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 150%;
+  letter-spacing: 3%;
+  width: 274px;
+  height: 42px;
+  left: 38px;
+  top: 20px;
+}
+
+.our-amazing-txt {
+  position: relative;
+  font-weight: 400;
+  color: rgb(85, 85, 85);
+  font-size: 20px;
+  line-height: 171%;
+  letter-spacing: 3%;
+  width: 306px;
+  height: 102px;
+  left: 38px;
+  top: 25px;
+}
+
+.lifetime-support-div {
+  position: relative;
+  font-family: "Inter", sans-serif;
+  background-color: rgb(255, 255, 255);
+  width: 378px;
+  height: 380px;
+  left: 562px;
+  bottom: 600px;
+}
+
+.support-img {
+  position: relative;
+  width: 104.43px;
+  height: 97px;
+  left: 17px;
+  top: 24px;
+}
+
+.support-txt {
+  position: relative;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 150%;
+  letter-spacing: 3%;
+  width: 239px;
+  height: 42px;
+  left: 37px;
+  top: 25px;
+}
+
+.lifetime-access-txt {
+  position: relative;
+  font-weight: 400;
+  color: rgb(85, 85, 85);
+  font-size: 20px;
+  line-height: 171%;
+  letter-spacing: 3%;
+  width: 306px;
+  height: 136px;
+  left: 38px;
+  top: 25px;
+}
+
+.video-lesson-div {
+  position: relative;
+  font-family: "Inter", sans-serif;
+  background-color: rgb(255, 255, 255);
+  width: 378px;
+  height: 380px;
+  left: 1000px;
+  bottom: 980px;
+}
+
+.video-lesson-img {
+  position: relative;
+  width: 99.9px;
+  height: 97px;
+  top: 20px;
+  left: 30px;
+}
+
+.video-lesson-txt {
+  position: relative;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 150%;
+  letter-spacing: 3%;
+  width: 193px;
+  height: 42px;
+  top: 25px;
+  left: 37px;
+}
+.recorded {
+  font-family: "Inter", sans-serif;
+  position: relative;
+  font-weight: 400;
+  color: rgb(85, 85, 85);   
+  font-size: 20px;
+  line-height: 171%;
+  letter-spacing: 3%;
+  width: 306px; 
+  height: 136px;
+  left: 38px;
+  top: 30px;
+
+}
+
+
